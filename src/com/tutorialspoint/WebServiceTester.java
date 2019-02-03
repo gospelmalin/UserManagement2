@@ -16,7 +16,7 @@ import javax.ws.rs.core.MediaType;
 public class WebServiceTester  {
 
    private Client client;
-   private String REST_SERVICE_URL = "http://localhost:8081/UserManagement2/rest/UserService/users";
+   private String REST_SERVICE_URL = "http://localhost:8081/UserManagementLab2_1/rest/UserService/users";
    private static final String SUCCESS_RESULT="<result>success</result>";
    private static final String PASS = "pass";
    private static final String FAIL = "fail";
